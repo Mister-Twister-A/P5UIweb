@@ -1,0 +1,4 @@
+@font-face { font-family: "Flap Jacks"; src: url("./assets/Flap_Jacks_NF_W01_Regular.ttf"); }
+@font-face { font-family: "CC Wild Words"; src: url("./assets/cc-wild-words-bold-italic.ttf"); }
+html, body, #root { margin: 0; height: 100%; background: #000; overflow: hidden; }
+#root { display: flex; align-items: center; justify-content: center; }
